@@ -1,0 +1,24 @@
+#body-wrapper {
+	
+}
+
+#body-wrapper .character {
+	margin: 5px;
+    float: left;
+    width: 180px;
+    right:50%;
+	
+}
+
+#body-wrapper .character img {
+    width: 100%;
+    display: inline-block;
+    margin-right: auto;
+    padding-left: 200%;
+    padding-top: 50px;
+}
+}
+
+.rows {
+	
+}
