@@ -1,5 +1,19 @@
-#body-wrapper {
-	
+/*CSS for the Character select page*/
+
+#body-wrapper .back a {
+	padding-left: 30px;
+	text-decoration: none;
+	color:black;
+}
+
+#body-wrapper .back p {
+	padding-top: 30px;
+	color:black;
+}
+
+#body-wrapper h1 {
+	text-align: center;
+	padding-top:5%;
 }
 
 #body-wrapper .character {
@@ -7,18 +21,15 @@
     float: left;
     width: 180px;
     right:50%;
-	
 }
 
 #body-wrapper .character img {
     width: 100%;
     display: inline-block;
     margin-right: auto;
-    padding-left: 200%;
+    padding-left: 441px;
     padding-top: 50px;
 }
-}
 
-.rows {
-	
-}
+
+

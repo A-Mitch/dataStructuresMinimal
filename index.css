@@ -1,3 +1,5 @@
+/*CSS for the index page*/
+
 #body-wrapper p {
 	text-align: right;
     padding-right: 5%;
@@ -12,4 +14,10 @@
 #start-text p {
 	text-align:center;
 	padding-left: 5%; /* This centers the text */
+	color:black;
+}
+
+#start-text a {
+	color:black;
+	text-decoration:none;
 }
